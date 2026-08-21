@@ -1,0 +1,11 @@
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+.pytest_cache/
+*.class
+build/
+out/
+.gradle/
+*.log
+
