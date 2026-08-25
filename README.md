@@ -2,4 +2,6 @@
 
 CS 3035: Programming Language Paradigms @ Cal State LA (Fall 2026)
 
-- [Week 1: Lab B](week-01/lab-b1-setup/)
+| Week | Content |
+| --- | --- |
+| [Week 1](week-01/) | **Lab A1:** [Programming Skills Diagnostic — Answer Key](https://calstatela.instructure.com/courses/130785/quizzes/640639)<br>**Lab B1:** [Development Environment Setup](week-01/lab-b1-setup/) |
