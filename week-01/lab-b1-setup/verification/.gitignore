@@ -1,0 +1,22 @@
+# Python compiled files and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Kotlin/JVM compiled files
+*.class
+*.jar
+build/
+out/
+.gradle/
+
+# C/C++ compiled files
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.so
+*.dylib
+*.dSYM/
+/c/hello
