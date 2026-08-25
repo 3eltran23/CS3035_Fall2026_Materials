@@ -1,7 +1,4 @@
 # Lab B1: Development Environment Setup
-
-# Lab B1: Development Environment Setup
-
 ---
 
 Students install the required tools for Python, Kotlin, and C. They then verify that each language environment works correctly by running a small program.
