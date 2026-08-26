@@ -1,4 +1,5 @@
 # Lab B1: Development Environment Setup
+
 ---
 
 Students install the required tools for Python, Kotlin, and C. They then verify that each language environment works correctly by running a small program.
@@ -141,20 +142,22 @@ Both `Main.kt` and `kotlin_setup.ipynb` must display `Hello, CS 3035!` and the i
 On macOS or Linux, run:
 
 ```bash
-cc --version
-cc -std=c11 -Wall -Wextra c/hello.c -o c/hello
-./c/hello
+cd c
+gcc --version
+gcc hello.c -o hello
+./hello
 ```
 
 On Windows with GCC, run:
 
 ```powershell
+cd c
 gcc --version
-gcc -std=c11 -Wall -Wextra c/hello.c -o c/hello.exe
-.\c\hello.exe
+gcc hello.c -o hello
+.\hello.exe
 ```
 
-On macOS, `cc --version` may display Apple Clang. In every operating system, the program should display `Hello, CS 3035!`.
+On macOS, `gcc --version` may display Apple Clang. In every operating system, the program should display `Hello, CS 3035!`.
 
 ## Required Evidence
 ---
@@ -163,7 +166,28 @@ On macOS, `cc --version` may display Apple Clang. In every operating system, the
 - Python: successful Hello World and Python 3.14 version output from both `hello.py` and `python_setup.ipynb`, using the active `CS3035` environment
 - C: Visual Studio Code, C compiler version, successful compilation, and Hello World output
 
+## Submission Instructions
+---
 
+Submit the following five screenshots directly through Canvas as part of the same submission:
+
+1. **Python script:** Show `hello.py` running in the active `CS3035` environment with Hello World and Python 3.14 version output.
+2. **Python notebook:** Show `python_setup.ipynb` running with the `CS3035` kernel, Hello World output, and Python 3.14 version.
+3. **Kotlin program:** Show `Main.kt` and its successful Hello World and Kotlin version output in IntelliJ IDEA.
+4. **Kotlin notebook:** Show `kotlin_setup.ipynb` and its successful Hello World and Kotlin version output in IntelliJ IDEA.
+5. **C program:** Show the compiler version, compilation command, run command, and successful Hello World output.
+
+Name your files using the following format, replacing `lastname` with your own last name:
+
+- `lastname_python_py.png`
+- `lastname_python_notebook.png`
+- `lastname_kotlin_kt.png`
+- `lastname_kotlin_notebook.png`
+- `lastname_c.png`
+
+Canvas accepts `.png`, `.jpg`, and `.jpeg` image files for this laboratory. Upload all five images separately in the same Canvas submission. **Do not combine the screenshots into a ZIP file.**
+
+Each screenshot must clearly show the complete command and its output. If a verification does not pass initially, use the Canvas submission comments to briefly describe the error and how you resolved it.
 
 ## Platform Notes
 ---
@@ -172,4 +196,3 @@ On macOS, `cc --version` may display Apple Clang. In every operating system, the
 - Output such as version numbers and compiler names may differ by operating system.
 - Students are evaluated on successful verification, not on having the same version shown in an example.
 - If a command is missing, install that tool, close and reopen the terminal, and run the program again.
-
