@@ -6,7 +6,7 @@ Run all commands from this `verification` directory. You may use the integrated 
 
 | Tool | Verification command | Expected result |
 |---|---|---|
-| Python | Run both `python/hello.py` and `python/python_setup.ipynb` using the `CS3035` environment | Hello World and Python 3.14 version from both files |
+| Python | Run both `python/hello.py` and `python/python_setup.ipynb` using the `CS3035` environment | Hello, CS 3035!  from both files |
 | Kotlin | Run both `kotlin/Main.kt` and `kotlin/kotlin_setup.ipynb` in IntelliJ IDEA | Hello World and Kotlin version from both files |
 | C | Compile `c/hello.c`, then run the resulting executable | `Hello, CS 3035!` |
 
