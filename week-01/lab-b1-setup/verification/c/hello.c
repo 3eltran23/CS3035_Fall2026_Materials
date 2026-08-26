@@ -4,5 +4,5 @@
 
 int main(void)
 {
-    printf("hello, world\n");
+    printf("Hello, CS 3035!\n");
 }
