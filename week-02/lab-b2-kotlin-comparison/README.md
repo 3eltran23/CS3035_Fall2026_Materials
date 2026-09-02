@@ -3,7 +3,7 @@
 This folder will contain the released instructions, Kotlin starter project, and public tests for Lab B2.
 
 - `starter/`: starter files
-- `tests/`: public tests students may run
+
 
 Submit completed work through Canvas unless the assignment states otherwise.
 
