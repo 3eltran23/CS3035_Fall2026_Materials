@@ -9,3 +9,5 @@ out/
 .gradle/
 *.log
 
+# Keep this instructor-only file local.
+/week-04/H1/meal_explorer_mvc/INSTRUCTOR_NOTES.md
