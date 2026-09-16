@@ -58,12 +58,31 @@ meal_explorer_mvc/
 
 Python 3.10 or newer is required for `match`/`case`.
 
+Use your existing Conda environment named `cs3035`. You do not need to create
+a new environment or a `.venv` folder.
+
+Open a terminal at the root of the `CS3035_Fall2026_Materials` repository, then
+run these commands in order:
+
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate          # Windows: .venv\Scripts\activate
+conda activate cs3035
+cd week-04/H1/meal_explorer_mvc
+python --version
 python -m pip install -r requirements.txt
+python -c "import requests; print(requests.__version__)"
 python main.py
 ```
+
+If your terminal is already in `meal_explorer_mvc`, skip the `cd` command.
+
+`requirements.txt` lists the packages needed by this project, including
+`requests`. The command `python -m pip install -r requirements.txt` installs
+them using Python from the activated `cs3035` environment. The next command
+prints the installed `requests` version to confirm that the import works.
+
+If you see `ModuleNotFoundError: No module named 'requests'`, activate `cs3035`
+and run the installation command again in the same terminal before starting
+the program.
 
 Choose option `1` first to test the supplied category API example.
 Option `4` will display a random recipe after you complete
