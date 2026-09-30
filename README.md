@@ -9,3 +9,4 @@ CS 3035: Programming Language Paradigms @ Cal State LA (Fall 2026)
 | [Week 3](week-03/) | **Lab B3:** [Variables, Scope, Expressions, and Object Lifetime](week-03/lab-b3-variables-scope-expression-object-lifetime/LabB03.ipynb) |
 | [Week 4](week-04/) | **Lecture 4.1:** [Python Input and Exception Handling](week-04/L42/L041.ipynb)<br>**Lecture 4.2:** [Recipe App — Imperative Python](week-04/L42/L042.ipynb)<br>**Homework 1:** [Recipe App — Imperative Python](week-04/H1/README.md) |
 | [Week 5](week-05/) | **Lab A5:** [Exception Handling in Kotlin](week-05/lab-a4-ExceptionHandling-Kotlin/LabA5.ipynb) |
+| [Week 6](week-06/) | **Lab B6:** [Kotlin Classes and Data Classes](week-06/LabB6_Kotlin_Classes_Practice.ipynb) |
