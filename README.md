@@ -11,4 +11,4 @@ CS 3035: Programming Language Paradigms @ Cal State LA (Fall 2026)
 | [Week 5](week-05/) | **Lab A5:** [Exception Handling in Kotlin](week-05/lab-a4-ExceptionHandling-Kotlin/LabA5.ipynb) |
 | [Week 6](week-06/) | **Lab B6:** [Kotlin Classes and Data Classes](week-06/LabB6_Kotlin_Classes_Practice.ipynb) |
 | [Week 7](week-07/) | **Lab A7:** [Inheritance](week-07/LabA7_Inheritance.ipynb)<br>**Lab B7:** [Note Initialization and Management](week-07/LabB7.ipynb) |
-| [Week 8](week-08/) | **Lab A8:** [Lambda Expressions](week-08/LabA8.ipynb) |
+| [Week 8](week-08/) | **Lecture 8.1:** [Lambda Expressions](week-08/L081-LambdaExpressions.ipynb)<br>**Lecture 8.2:** [Polymorphic Functions and Generics](week-08/L082-PolymorphicFunction-Generics.ipynb)<br>**Lab A8:** [Lambda Expressions](week-08/LabA8.ipynb)<br>**Lab B8:** [Generics and Higher-Order Functions in Kotlin](week-08/LabB8.ipynb) |
