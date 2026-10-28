@@ -13,3 +13,4 @@ CS 3035: Programming Language Paradigms @ Cal State LA (Fall 2026)
 | [Week 7](week-07/) | **Lab A7:** [Inheritance](week-07/LabA7_Inheritance.ipynb)<br>**Lab B7:** [Note Initialization and Management](week-07/LabB7.ipynb) |
 | [Week 8](week-08/) | **Lecture 8.1:** [Lambda Expressions](week-08/L081-LambdaExpressions.ipynb)<br>**Lecture 8.2:** [Polymorphic Functions and Generics](week-08/L082-PolymorphicFunction-Generics.ipynb)<br>**Lab A8:** [Lambda Expressions](week-08/LabA8.ipynb)<br>**Lab B8:** [Generics and Higher-Order Functions in Kotlin](week-08/LabB8.ipynb) |
 | [Week 9](week-09/) | **Lecture 9.1:** [Generics, Variance, and Type Projections](week-09/W9L091_Generics.ipynb)<br>**Lab A9:** [Generics](week-09/LabA9.md) |
+| [Week 10](week-10/) | **Lab B10:** [Writing Loops Functionally](week-10/LabB10.md)<br>**Practice Notebook:** [Lab B10 Kotlin Notebook](week-10/labb10.ipynb) |
